@@ -16,8 +16,7 @@ public class Main {
 		 * um objeto do tipo LightnignPhone. Por esse motivo, a classe Iphone está encapsulada
 		 * e pode ser utilizada na função rechargeMicroUsbPhone
 		 */
-		
-
+	
 	}
 
 }
