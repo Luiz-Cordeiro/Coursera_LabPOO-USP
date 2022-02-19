@@ -48,6 +48,7 @@ public class Client {
 			System.out.println(result);
 			} catch (NullPointerException e) {
 				System.out.println("Saindo do loop...");
+				sc.close();
 				System.exit(0);
 			}
 			
